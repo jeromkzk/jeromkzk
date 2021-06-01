@@ -11,7 +11,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="jeromekzk Spotify Playing" width="350" />](https://open.spotify.com/user/jeromekzk?si=90a76740cd634013)
+https://open.spotify.com/user/jeromekzk?si=90a76740cd634013
 
 
 ### Connexion avec moi :
