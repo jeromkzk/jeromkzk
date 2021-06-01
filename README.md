@@ -4,7 +4,7 @@
 
 ## je suis un étudiant en developpement web (front-end), un gamer, biker et sport addict !!
 
-- 🌱 J'apprends le HTML et le CSS avec openclassrooms avec la formation Prep'apprentissage et le JS, PHP en autodidacte.
+- 🌱 J'apprends le HTML et le CSS sur openclassrooms avec la formation Prep'apprentissage et le JS, PHP en autodidacte.
 - 👯 Je suis à la recherche d'une entreprise pour continuer mon apprentissage en alternance dans le front-end.
 - 🥅 2021 Goals: Intégrer une entreprise en alternance en Developpeur front-end.
 - ⚡ Fun fact: J'adore la moto et la musique.
