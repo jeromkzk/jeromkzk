@@ -9,7 +9,7 @@
 - 🥅 2021 Goals: Intégrer une entreprise en alternance en Developpeur front-end.
 - ⚡ Fun fact: J'adore la moto et la musique.
 
-### Spotify Playing 🎧
+### Spotify 🎧
 
 https://open.spotify.com/user/jeromekzk?si=90a76740cd634013
 
